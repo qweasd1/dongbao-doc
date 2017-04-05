@@ -139,4 +139,4 @@ you should see ```hello world``` on your browser
 ![](../../img/introduction/hello-world/hello-world.png)
 
 
-cong! you finish the hello world sample (see repo for this sample [here](...))
+cong! you finish the hello world sample (see repo for this sample [here](https://github.com/qweasd1/dongbao-doc/tree/master/samples/hello-word))
