@@ -1610,15 +1610,15 @@ domutils@1.5.1:
     dom-serializer "0"
     domelementtype "1"
 
-dongbao-state@0.1.9:
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/dongbao-state/-/dongbao-state-0.1.9.tgz#e03ef42447db038ef9dfe7008e7c8b9b1b73fbdc"
+dongbao-state@^0.1.9:
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/dongbao-state/-/dongbao-state-0.1.10.tgz#65501062d0dd42384901a1c695cd09156356097f"
 
-dongbao@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/dongbao/-/dongbao-0.1.5.tgz#506102a767094e093fd274736ac66045e22ec5cc"
+dongbao@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/dongbao/-/dongbao-0.1.8.tgz#0d455b684a51352db0235cc1c21a117b07000b7f"
   dependencies:
-    dongbao-state "0.1.9"
+    dongbao-state "^0.1.9"
     react-redux "^5.0.3"
     redux "^3.6.0"
 
