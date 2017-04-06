@@ -1611,12 +1611,12 @@ domutils@1.5.1:
     domelementtype "1"
 
 dongbao-state@^0.1.9:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/dongbao-state/-/dongbao-state-0.1.10.tgz#65501062d0dd42384901a1c695cd09156356097f"
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/dongbao-state/-/dongbao-state-0.1.11.tgz#f00e00092c67a86b334c90bfcf86f631d0bf9416"
 
-dongbao@^0.1.8:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/dongbao/-/dongbao-0.1.8.tgz#0d455b684a51352db0235cc1c21a117b07000b7f"
+dongbao@^0.1.12:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/dongbao/-/dongbao-0.1.12.tgz#e7d33bd4eb47e22f93f5c5d181bdaf3689f651a9"
   dependencies:
     dongbao-state "^0.1.9"
     react-redux "^5.0.3"

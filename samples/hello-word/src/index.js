@@ -5,4 +5,4 @@ import './index.css';
 import {render} from 'dongbao'
 
 
-render(App)
+render(<App/>)

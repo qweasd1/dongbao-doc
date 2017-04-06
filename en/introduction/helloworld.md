@@ -124,7 +124,7 @@ import './index.css';
 import {render} from 'dongbao'
 
 
-render(App)
+render(<App/>)
 ```
 this will use render method from ```dongbao``` 
 

@@ -12,7 +12,7 @@ import App from './App';
 import {render} from 'dongbao'
 
 
-render(App)
+render(<App/>)
 ```
 > just as we said in [Hello world](../introduction/helloworld.md) Sample, we use 
 ```render``` method from ```dongbao``` instead of ```react-dom's```.

@@ -3,4 +3,4 @@ import App from './App';
 import {render} from 'dongbao'
 
 
-render(App)
+render(<App/>)
