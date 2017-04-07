@@ -21,3 +21,6 @@
 
 ### Common Issues
 * [organize your code](you must first load config, load state, load view, finally render)
+
+
+
